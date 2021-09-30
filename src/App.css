@@ -28,6 +28,10 @@
   color: #61dafb;
 }
 
+.App-input-container {
+  padding: 1rem 2rem;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
